@@ -23,4 +23,9 @@
     <string name="vibrate_hangup">Vibrate on hang up</string>
     <string name="vibrate_45">Vibrate every minute</string>
     <string name="vibrate_45_sum">Vibrates at the 45 second mark of every minute during outgoing calls</string>
+
+    <!-- Non intrusive incall ui -->
+    <string name="preference_category_interface">Interface</string>
+    <string name="non_intrusive_incall_title">Non intrusive</string>
+    <string name="non_intrusive_incall_summary">Use non intrusive dialog for incoming calls</string>
 </resources>
